@@ -1,7 +1,3 @@
-# !!! Please refer to the solution branch for code part
-
-
-
 ## Stock Market Data Analysis Project
 
 ### Overview
